@@ -52,7 +52,7 @@ def get_sample_results():
     """Return sample travel options"""
     return [
         {
-            "title": "Weekend Gateway Package",
+            "title": "Weekend Getaway Package",
             "destination": "San Francisco, CA",
             "duration": "3 days / 2 nights",
             "price": "$1,299",
