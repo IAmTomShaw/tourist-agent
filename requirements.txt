@@ -1,1 +1,8 @@
 streamlit>=1.28.0
+google
+python-dotenv
+google-auth-oauthlib
+google-api-python-client
+openai
+openai-agents
+asyncio
