@@ -4,7 +4,6 @@ import asyncio
 import datetime
 from src.gcal import get_events
 from src.agent import run_agent
-from src.cal import show_calendar
 
 # Page configuration
 st.set_page_config(
